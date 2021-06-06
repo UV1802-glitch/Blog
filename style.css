@@ -1,0 +1,62 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_div
+{
+    border: 5px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.glyphicon-star
+{
+    color: gold;
+}
+.movie_head
+{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 15px;
+    
+}
+.movie_head i
+{
+    float: right;
+}
+.img_modal
+{
+    display: inline-block;
+}
+.modal-body
+{
+    text-align: center;
+}
+#mm
+{
+    width:400px;
+    height: 200px;
+}
+#hp
+{
+    width: 100px;
+    height: 200px;
+}
+#hp1
+{
+    width: 200px;
+    height: 300px;
+}
